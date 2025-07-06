@@ -1,3 +1,7 @@
+<div align="center">
+  <img height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnZ0bGc2ZmtwM3FkZDByZzV0M3dieTY2MmMyYWc2c2dtYWV1MGRtYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/MBCodZbEhb2jSNUZNd/giphy.gif"  />
+</div>
+
 # 💫 About Me:
 I'm Harun Fathurrozaq from Kebumen<br>🔭 I’m working as power generation engineer<br>📚 I'm currently learning Student at Universitas Terbuka<br>⚡ In my free time I Freelance
 
