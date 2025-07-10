@@ -1,3 +1,8 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&color=ffffff&size=45&center=true&vCenter=true&width=1000&lines=👋+Hi,+I'm+Harun+Ef!;Welcome+to+my+GitHub!;Let's+create+something+awesome!)](https://git.io/typing-svg)
+
+
+
+
 <div align="center">
   <img height="300" weight = "400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnZ0bGc2ZmtwM3FkZDByZzV0M3dieTY2MmMyYWc2c2dtYWV1MGRtYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/MBCodZbEhb2jSNUZNd/giphy.gif"  />
 </div>
